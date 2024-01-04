@@ -1,0 +1,15 @@
+C:\Users\heron\source\repos\FileZipper\bin\Release\FileZipper.exe.config
+C:\Users\heron\source\repos\FileZipper\bin\Release\FileZipper.exe
+C:\Users\heron\source\repos\FileZipper\bin\Release\FileZipper.pdb
+C:\Users\heron\source\repos\FileZipper\bin\Release\FileZipper.xml
+C:\Users\heron\source\repos\FileZipper\bin\Release\Ionic.Zip.dll
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.vbproj.AssemblyReference.cache
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.vbproj.SuggestedBindingRedirects.cache
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.Form1.resources
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.Resources.resources
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.vbproj.GenerateResource.cache
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.vbproj.CoreCompileInputs.cache
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.vbproj.CopyComplete
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.exe
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.xml
+C:\Users\heron\source\repos\FileZipper\obj\Release\FileZipper.pdb
